@@ -1,1 +1,1 @@
-This is the interview code for Media Pop.
+This is the code for Media Pop interview.
