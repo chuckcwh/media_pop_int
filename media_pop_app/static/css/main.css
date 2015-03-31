@@ -1,0 +1,10 @@
+h1, h3 {
+    color: darkblue !important;
+}
+
+#description {
+    width: 100%;
+    text-align: center;
+    font-size: 36px;
+    color: grey;
+}
